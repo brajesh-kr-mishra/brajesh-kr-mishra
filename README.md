@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects and Java full-stack projects**
 
-- 🤝 I’m looking for help with **MERN stack projects and Java full-stack projects**
+- 🤝 I’m looking for help with **Competitive Programming.**
 
 - 💬 Ask me about **Java, React, MERN stack,**
 
