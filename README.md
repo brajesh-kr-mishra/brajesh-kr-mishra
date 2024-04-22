@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **E-commerce Platform, Social Media Dashboard, Blogging Platform**
 
-- 🌱 I’m currently learning **Reactjs, node, mongoDb, Express, System Design,**
+- 🌱 I’m currently learning **Reactjs, node, mongoDb, Express, System Design,Aptitude**
 
 - 👯 I’m looking to collaborate on **MERN stack projects and Java full-stack projects**
 
