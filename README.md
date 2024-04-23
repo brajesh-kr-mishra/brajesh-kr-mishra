@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Competitive Programming.**
 
-- 💬 Ask me about **Java, React, MERN stack,**
+- 💬 Ask me about **Java, React, MERN stack,JavaScript**
 
 - 📫 How to reach me **brajeshmishra1508@gmail.com**
 
