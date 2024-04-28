@@ -1,6 +1,6 @@
 [![MasterHead](https://shorturl.at/kyATX)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Brajesh  Mishra</h1>
+<h1 align="center">Hi 👋, I'm Brajesh Kumar  Mishra</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
